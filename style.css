@@ -1,0 +1,44 @@
+html{
+    background-color: #cdb4db;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;    color: #2d2d2d;
+    font-size: 3em;
+    text-align: center;
+}
+
+form{
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.hidden {
+    display:none;
+}
+
+#imageContainer{
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+}
+
+img{
+    width: 125px;
+    height: 125px;
+}
+
+input[type=text] {
+    width: 30%;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+#searchBtn{
+    color: #2d2d2d;
+}
+
+#giphyArea{
+    display: flex;
+    flex-wrap: wrap;
+}
